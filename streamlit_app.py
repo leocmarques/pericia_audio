@@ -4,6 +4,9 @@ from pydub import AudioSegment
 import tempfile
 import os
 
+os.system("apt-get update")
+os.system("apt-get install -y ffmpeg")
+
 # Função para processar o áudio e dividi-lo em partes de 15 minutos
 def dividir_audio_em_partes(caminho_audio):
     audio = AudioSegment.from_file(caminho_audio)
