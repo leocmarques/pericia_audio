@@ -76,8 +76,8 @@ Atualmente, a pericianda não utiliza medicações e mantém controle da ansieda
 assistente financeira e relata exercer plenamente suas atividades do cotidiano e laborais.
 
 
-Agora, temos a transcrição abaixo da gravação da perícia realizada com outra pericianda chamada {nome.value}. estavam presentes {pessoas.value}
-pessoas, sendo a pericianda, a perita Arlete e {assistentes.value} assistentes técnicos. A imensa maioria das falas é da pericianda, e em
+Agora, temos a transcrição abaixo da gravação da perícia realizada com outra pericianda chamada {nome}. estavam presentes {pessoas}
+pessoas, sendo a pericianda, a perita Arlete e {assistentes} assistentes técnicos. A imensa maioria das falas é da pericianda, e em
 geral as perguntas são da perita. leia o documento e tente fazer um relato da pericianda o mais proximo possivel do modelo apresentado
 inicialmente. Quando falo próximo, me refiro ao estilo de escrita, nao especificamente ao conteudo em si. o resumo deve ter pelo menos 7 paragrafos.
 
